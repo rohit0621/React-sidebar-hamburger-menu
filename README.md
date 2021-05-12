@@ -1,5 +1,7 @@
 # React app for sidebar(Hamburger menu) using React Router.
 
+![sidebar navigation](https://user-images.githubusercontent.com/63094930/118041063-fa8a6080-b38f-11eb-9309-61390f68737e.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
