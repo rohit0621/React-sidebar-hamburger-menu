@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React app for sidebar(Hamburger menu) using React Router.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
